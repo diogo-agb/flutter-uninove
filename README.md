@@ -1,1 +1,1 @@
-Bem vindo ao repositório do projeto de aula do professor Edson.
+Bem vindo ao repositório do projeto de aula.
